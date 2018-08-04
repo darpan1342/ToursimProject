@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="sukhna_fragment_name">SUKHNA LAKE</string>
+    <string name="barbeque_nation_fragment_name">BARBEQUE NATION</string>
+    <string name="pirate_of_grill_fragment_name">PIRATES OF GRILL</string>
+    <string name="rock_fragment_name">ROCK GARDEN</string>
+    <string name="sukhna_fragment_timings">ANY TIME</string>
+    <string name="barbeque_nation_fragment_timings">10:00Am - 11:00PM</string>
+    <string name="pirate_of_grill_fragment_timings">10:00Am - 11:00PM</string>
+    <string name="rock_fragment_timings">10:00Am - 08:00PM</string>
+    <string name="sukhna_fragment_ratings">4.5 OUT OF 5 STARS</string>
+    <string name="barbeque_nation_fragment_ratings">4.5 OUT OF 5 STARS</string>
+    <string name="pirate_of_grill_fragment_ratings">4 OUT OF 5 STARS</string>
+    <string name="rock_fragment_ratings">4.5 OUT OF 5 STARS</string>
+    <string name="sukhna_fragment_unique">MIGRATORY BIRDS</string>
+    <string name="barbeque_nation_fragment_special">BUFFET</string>
+    <string name="pirate_of_grill_fragment_special">BUFFET</string>
+    <string name="rock_fragment_unique">All the material used for building Rock Garden is Waste Material</string>
+    <string name="sukhna_fragment_address">Sec 7 Chd</string>
+    <string name="barbeque_nation_fragment_address">Sec 26 Chd</string>
+    <string name="pirate_of_grill_fragment_address">3rd floor Elante Mall Industrial Area Phase2</string>
+    <string name="rock_fragment_address">Sec 1 Chd</string>
+</resources>

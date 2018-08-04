@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ImageView
+        style="@style/image"
+        android:id="@+id/image"/>
+    <TextView
+        style="@style/titleTextView"
+        android:id="@+id/name"/>
+
+        <TextView
+            style="@style/textView"
+            android:id="@+id/timings"/>
+        <TextView
+            style="@style/textView"
+            android:id="@+id/addres"/>
+    <TextView
+        style="@style/textView"
+        android:id="@+id/special"/>
+
+    <TextView
+        style="@style/textView"
+        android:id="@+id/ratings"/>
+    </LinearLayout>
